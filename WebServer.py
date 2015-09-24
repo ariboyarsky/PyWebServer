@@ -1,6 +1,5 @@
 # Import socket module
-from socket import *    
-from path import path
+from socket import *
 # Create a TCP server socket
 #(AF_INET is used for IPv4 protocols)
 #(SOCK_STREAM is used for TCP)
@@ -27,27 +26,28 @@ while True:
 	# the except clause is executed
 	try:
 		# Receives the request message from the client
-        request = connection.recv(1024)
+		request = connection.recv(1024)
 		# Extract the path of the requested object from the message
 		# The path is the second part of HTTP header, identified by [1]
-        path = request[1]
+		path = request[1]
 		# Because the extracted path of the HTTP request includes 
 		# a character '\', we read the path from the second character 
-        path = path[1,]
+		path = path[1,]
 		# Store the entire content of the requested file in a temporary buffer
-        f = path(path).bytes() #requires use of the path library
+		f = open(path, "r")
+		c = f.read();
 		# Send the HTTP response header line to the connection socket
-        connection.send("HTTP/1.1 200 OK\r\n\r\n")
+		connection.send("HTTP/1.1 200 OK\r\n\r\n")
  
 		# Send the content of the requested file to the connection socket
-        connection.send(f)
+		connection.send(c)
 		# Close the client connection socket
-        connection.close()
+		connection.close()
 
 	except IOError:
 		# Send HTTP response message for file not found
-        connection.send('HTTP/1.1 404 Not Found\r\n\r\n')
+		connection.send('HTTP/1.1 404 Not Found\r\n\r\n')
 		# Close the client connection socket
-        connection.close()
+		connection.close()
 # Close the Server connection socket
 listener.close()
