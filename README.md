@@ -6,5 +6,6 @@ To compile simply do the following:
   
 Port has been preassigned to <code>8080</code>
 
-To test, navigate to http://localhost:8080/HelloWorld.html
-Or, on another host http://<your public IP>:8080/HelloWorld.html
+To test, navigate to <code>http://localhost:8080/HelloWorld.html</code>
+
+Or, on another host <code>http://<your public IP>:8080/HelloWorld.html</code>
