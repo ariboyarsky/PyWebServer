@@ -36,7 +36,8 @@ while True:
         # The path is the second part of HTTP header, identified by [1]
         log.write("HTTP Request:\n %s \n" % request)
         req = request.split()
-        path = req[1]
+        if len(req) > 0:
+            path = req[1]
         # Because the extracted path of the HTTP request includes
         # a character '\', we read the path from the second character
         path = path[1:]
