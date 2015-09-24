@@ -1,5 +1,5 @@
 # PyWebServer
-Simple web server built in python for a Computer Networks class.
+Simple web server with basic logging built in python for a Computer Networks class.
 
 To compile simply do the following: 
   <code>python WebServer.py</code>
