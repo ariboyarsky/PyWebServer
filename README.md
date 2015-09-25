@@ -2,6 +2,12 @@
 Simple web server with basic logging built in python for a Computer Networks class.
 
 To compile simply do the following: 
-  <code>python WebServer.py</code>
+  <pre><code>python WebServer.py</code></pre>
   
-To test, navigate to http://localhost:8080/HelloWorld.html
+Port has been preassigned to <code>8080</code>
+
+To test, navigate to <code>http://localhost:8080/HelloWorld.html</code>
+
+Or, on another host <code>http://{your public IP}:8080/HelloWorld.html</code>
+
+Server will log data (http requests, procedure, etc.) to <code>log.txt</code>
