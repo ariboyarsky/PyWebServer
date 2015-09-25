@@ -1,6 +1,8 @@
 # Import socket module
 from socket import *
 import socket
+#import time for logging
+import datetime
 # Create a TCP server socket
 #(AF_INET is used for IPv4 protocols)
 #(SOCK_STREAM is used for TCP)
@@ -35,6 +37,8 @@ while True:
         # Extract the path of the requested object from the message
         # The path is the second part of HTTP header, identified by [1]
         log.write("HTTP Request:\n %s \n" % request)
+        log.write("Time: %s" % datetime.datetime.today())
+        log.write("\n")
         req = request.split()
         if len(req) > 0:
             path = req[1]

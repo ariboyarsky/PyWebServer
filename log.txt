@@ -51,3 +51,664 @@ Url Path: HellWorld.html
  Connection close
 
  Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+  
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /kk HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: kk
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /kk HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: kk
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.php HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.php
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+  
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+ GET /Helloorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: Helloorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET / HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: 
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.htm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.htm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.htm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.htm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.htm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: elloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.htm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.htm
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+ GET /break.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: break.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /'print%20hello HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: 'print%20hello
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /'print%udagfkaf HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: 'print%udagfkaf
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET / HTTP/1.1
+Host: 128.164.204.175:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+ 
+Url Path: 
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /favicon.ico HTTP/1.1
+Host: 128.164.204.175:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept: */*
+Referer: http://128.164.204.175:8080/
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+ 
+Url Path: favicon.ico
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: avicon.ico
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: 128.164.204.175:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: elloWorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: lloWorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: elloWorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: elloWorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+  
+Url Path: elloWorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: <type 'datetime.datetime'>Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWord.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: <type 'datetime.datetime'>Url Path: HelloWord.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWord.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWord.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: 2015-09-24 22:25:16.608605
+Url Path: HelloWord.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: 2015-09-24 22:29:46.371462
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWord.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: 2015-09-24 22:29:49.035302
+Url Path: HelloWord.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+  
+Time: 2015-09-24 22:29:59.338302
+Url Path: elloWord.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+Python Web Server Log 
+Running on port: 8080 
+ Ready to serve...
+HTTP Request:
+ GET /HelloWord.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: 2015-09-24 22:31:40.656522
+Url Path: HelloWord.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
+HTTP Request:
+ GET /HelloWorld.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8,it;q=0.6
+
+ 
+Time: 2015-09-24 22:31:42.228554
+Url Path: HelloWorld.html
+ Send HTTP 200 OK
+ Connection close 
+
+ Ready to serve...
+HTTP Request:
+  
+Time: 2015-09-24 22:32:00.898072
+Url Path: elloWorld.html
+ Send HTTP 404 Not Found
+ Connection close
+
+ Ready to serve...
